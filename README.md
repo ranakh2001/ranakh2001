@@ -16,6 +16,7 @@ CI/CD & Others: GitHub Actions, Firebase Hosting, Notion, Trello
 
 📱 Highlighted Projects
 🔗 https://github.com/ranakh2001/tt9_betweener_challenge
+
 A betweener app for real-world networking that lets users share all their social and professional accounts instantly.
 Built with Flutter Web, supports Arabic & English, and features a clean, responsive design.
 
@@ -23,6 +24,7 @@ Built with Flutter Web, supports Arabic & English, and features a clean, respons
 
 📬 PalMail
 🔗 https://github.com/ranakh2001/Complaints-Mail-App-palmail-
+
 A privacy-focused email client designed for users in Palestine.
 Features a modern UI, dark/light modes, and local data caching.
 
@@ -30,10 +32,16 @@ Features a modern UI, dark/light modes, and local data caching.
 
 💰 BudgetBuddy
 🔗 https://github.com/ayaabozour/budget_buddy
+
 A personal finance tracker built to help users manage expenses and visualize their budget.
 Offers powerful categorization, intuitive charts, and recurring expense tracking.
 
 📊 Features: Expense breakdowns, monthly limits, pie & bar charts, GetX for responsive state management, RESTful APIs.
 🌍 Localized and optimized for mobile devices with a smooth, clutter-free UI.
 
+🌐 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/rana-el-khodary/
+
+Email: rana.khodary@gmail.com
 
